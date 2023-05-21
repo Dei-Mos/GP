@@ -1,0 +1,1 @@
+Server=LAPTOP-973OO99R;Database=OPK;Trusted_Connection=True;MultipleActiveResultSets=true;

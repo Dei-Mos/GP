@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsAUUNa6hHRD+d2kh7knwX+1/0HFFatkCIwb3anYhajBCtKsvJ1mRtlL/vW8m5KmQLYheYSpvYe8oxEnHUf5PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gentl\\source\\repos\\ClientGP\\ClientGP\\ClientGP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gentl\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\gentl\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

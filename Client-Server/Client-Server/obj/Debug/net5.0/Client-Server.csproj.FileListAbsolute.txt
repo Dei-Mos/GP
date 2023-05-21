@@ -1,0 +1,11 @@
+C:\Users\gentl\source\repos\Client-Server\Client-Server\bin\Debug\net5.0\Client-Server.deps.json
+C:\Users\gentl\source\repos\Client-Server\Client-Server\bin\Debug\net5.0\Client-Server.dll
+C:\Users\gentl\source\repos\Client-Server\Client-Server\bin\Debug\net5.0\ref\Client-Server.dll
+C:\Users\gentl\source\repos\Client-Server\Client-Server\bin\Debug\net5.0\Client-Server.pdb
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\Client-Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\Client-Server.AssemblyInfoInputs.cache
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\Client-Server.AssemblyInfo.cs
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\Client-Server.csproj.CoreCompileInputs.cache
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\Client-Server.dll
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\ref\Client-Server.dll
+C:\Users\gentl\source\repos\Client-Server\Client-Server\obj\Debug\net5.0\Client-Server.pdb
